@@ -1,6 +1,5 @@
 # echarts-changed-legend
-对echarts压缩包进行修改，当legend过多时，可以进行翻页。 具体使用阅读文档http://blog.csdn.net/danhuan/article/details/72831245
-
+对echarts压缩包进行修改，当legend过多时，可以进行翻页。该Js是修改后的echart。 具体用于解决以下问题，页面其他修改需按以下文档使用。
 
 **问题：**
 图例可以跟地图有联动效果，用来当列表使用，与地图有联动效果，简直太棒了，但是echarts图例太多，实在太占用空间，遮挡图表，又无法移动legend层。当屏幕小，满屏幕都是图例呀。。。如下图，头疼。
